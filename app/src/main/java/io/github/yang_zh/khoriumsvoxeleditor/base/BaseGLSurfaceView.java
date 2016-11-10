@@ -1,4 +1,4 @@
-package io.github.yang_zh.khoriumsvoxelmodeler.base;
+package io.github.yang_zh.khoriumsvoxeleditor.base;
 
 import android.content.Context;
 import android.opengl.GLSurfaceView;

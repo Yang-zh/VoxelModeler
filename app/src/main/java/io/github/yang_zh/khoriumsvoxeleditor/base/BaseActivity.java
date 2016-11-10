@@ -1,4 +1,4 @@
-package io.github.yang_zh.khoriumsvoxelmodeler.base;
+package io.github.yang_zh.khoriumsvoxeleditor.base;
 
 import android.support.v7.app.AppCompatActivity;
 
